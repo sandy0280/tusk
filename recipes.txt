@@ -6,3 +6,11 @@ kheer
 Pasta
 Parantha
 Aloo pareantha
+
+
+beans
+
+Pizza
+Burger
+
+
